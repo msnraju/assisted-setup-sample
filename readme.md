@@ -6,7 +6,7 @@ This repository contains sample project for creating Microsoft Dynamics 365 Busi
 
 Assisted Setup
 
-![Assisted Setup](./media/AssistedSetup.png)
+![Assisted Setup](./media/AssistedSetup.PNG)
 
 Wizard Page
 
